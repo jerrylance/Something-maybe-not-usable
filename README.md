@@ -1,2 +1,2 @@
 # Something-maybe-usable
-some pieces documents
+some pieces documents。
